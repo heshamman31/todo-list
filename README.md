@@ -1,2 +1,2 @@
 A to-do list application using React and Material UI, enabling users to manage tasks effectively. Integrated CRUD operations for creating, viewing, updating, and deleting tasks, with options to mark tasks as completed and filter by status (all, completed, or not completed). Leveraged local storage for data persistence, ensuring tasks remain saved across sessions. Used UUID for unique task IDs and applied React hooks (useState, useEffect, useMemo, and useContext) to handle state management, data flow, and performance.
-Technologies : React , Material ui, uuid Library  , npm
+Technologies : React , Material ui, uuid Library  , npm .
